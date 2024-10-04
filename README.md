@@ -13,9 +13,11 @@ The drop-down list acts as a folder system. Change the text in the drop-down lis
 - Save your note utilizing a binary serialization algorithm
 - Three unique views to interact with the UI
 - Easy-to-read list view of all saved notes
+- Status messages in the bottom left to indicate certain things
 - Timestamp notes based on when they were last modified
 - Double-click on notes in the list to access them
 - Clear your writing space
+- Drag the bottom tab to resize the program vertically
 - Unique categories per note
 - View notes based on their category
 - Search for notes by title or date last modified
